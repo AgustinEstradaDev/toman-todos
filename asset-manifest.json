@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toman-todos/static/css/main.8c258346.css",
+    "main.js": "/toman-todos/static/js/main.e5277540.js",
+    "static/js/453.61e85aa7.chunk.js": "/toman-todos/static/js/453.61e85aa7.chunk.js",
+    "index.html": "/toman-todos/index.html",
+    "main.8c258346.css.map": "/toman-todos/static/css/main.8c258346.css.map",
+    "main.e5277540.js.map": "/toman-todos/static/js/main.e5277540.js.map",
+    "453.61e85aa7.chunk.js.map": "/toman-todos/static/js/453.61e85aa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c258346.css",
+    "static/js/main.e5277540.js"
+  ]
+}
